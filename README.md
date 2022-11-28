@@ -41,4 +41,4 @@ Each attribute is a potential risk factor. There are both demographic, behaviora
 - 2. Implement Logistic Regression, Logit Model to explain the marginal effects of various variables on survival.
 - 3. Confusion matrix with lowest false positives and false negatives.
 
-### Deadline - Dec 10, 2022. 
+### Deadline - Dec 10, 2022 
