@@ -1,6 +1,13 @@
 # Framingham_Heart_Study
 Logistic Regression Analysis for Framingham Heart Study dataset
 
+### Scope of study
+- 1. Plots (scatter and hist) of various independent variables to understand the dataset and data patterns.
+- 2. Data Cleaning to prepare data set for analysis
+- 3. Implement Logistic Regression, Logit Model to explain the marginal effects of various variables on the probability of occurence of Coronary Heart Disease after 10 years.
+- 4. Confusion matrix with lowest false positives and false negatives.
+
+### Deadline - Dec 16, 2022 
 
 ## Explaining Dataset ##
 
@@ -35,10 +42,3 @@ Each attribute is a potential risk factor. There are both demographic, behaviora
 
 ### Predict variable (desired target)
 - 10 year risk of coronary heart disease CHD (binary: “1”, means “Yes”, “0” means “No”)
-
-### Scope of study
-- 1. Plots (scatter and hist) of various independent variables to understand the dataset and data patterns.
-- 2. Implement Logistic Regression, Logit Model to explain the marginal effects of various variables on the probability of occurence of Coronary Heart Disease after 10 years.
-- 3. Confusion matrix with lowest false positives and false negatives.
-
-### Deadline - Dec 10, 2022 
