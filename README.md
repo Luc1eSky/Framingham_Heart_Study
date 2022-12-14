@@ -13,9 +13,8 @@ Logistic Regression Analysis for Framingham Heart Study dataset
 
 The dataset is publically available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has a 10-year risk of future coronary heart disease (CHD). The dataset provides the patients’ information and includes 4,238 records,16 columns and 15 attributes. 
 
-The goal of the dataset is to predict whether the patient has 10-year risk of future (CHD) coronary heart disease
-Variables
-Each attribute is a potential risk factor. There are both demographic, behavioral, and medical risk factors.
+The goal of the dataset is to predict whether the patient has a 10-year risk of future (CHD) coronary heart disease.
+Each attribute about the patient is a potential risk factor. There are both demographic, behavioral, and medical risk factors.
 
 ### Demographic:
 - Sex: male or female (Nominal)
